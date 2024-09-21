@@ -572,10 +572,10 @@
     bottom: 0; 
     right: 40px;
     font-weight: 900;
-    border: 1px solid var(--bs-white); 
+    border: 1px solid #ac9f6f;
     border-radius: 64px;
     transform: translateY(50%);
-    color: var(--bs-white);
+    color: #ac9f6f;
     background: var(--bs-secondary);
     display: flex;
     align-items: center;
